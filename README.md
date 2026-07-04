@@ -1,4 +1,3 @@
-<img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/e2e140cd-c78a-46e7-bf91-e8a0a5fbfea5" />
 <div align="center">
 
 # 🚀 HireLens AI
@@ -9,6 +8,7 @@ An AI-powered career guidance platform that helps students and fresh graduates a
 
 <p align="center">
   <img src="assets/landing-page.png" alt="HireLens AI Landing Page" width="100%">
+  <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/e2e140cd-c78a-46e7-bf91-e8a0a5fbfea5" />
 </p>
 
 <p align="center">
