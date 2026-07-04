@@ -88,7 +88,7 @@ https://github.com/tanug0/HireLens-AI
 ## 🏠 Landing Page
 
 <p align="center">
-   <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" /
+   <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" />
 </p>
 
 
