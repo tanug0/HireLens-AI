@@ -57,6 +57,18 @@ The platform combines resume analysis, ATS compatibility checking, skill gap det
 | Deployment | Vercel |
 
 ---
+# 📌 Project Modules
+
+- 🏠 Landing Page
+- 📊 Dashboard Overview
+- 📄 Resume Analysis
+- 📈 Skill Gap Analysis
+- 💼 Job Match Prediction
+- 🤖 AI Career Coach
+- 🏢 Dream Company Tracker
+- 👤 User Profile
+
+---
 
 # 🎨 UI Highlights
 
@@ -90,8 +102,6 @@ https://github.com/tanug0/HireLens-AI
 <p align="center">
    <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" />
 </p>
-
-
 
 ---
 
