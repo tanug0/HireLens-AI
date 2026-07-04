@@ -7,7 +7,6 @@
 An AI-powered career guidance platform that helps students and fresh graduates analyze resumes, identify skill gaps, improve ATS compatibility, and track career readiness through a premium interactive dashboard.
 
 <p align="center">
-  <img src="assets/landing-page.png" alt="HireLens AI Landing Page" width="100%">
   <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/e2e140cd-c78a-46e7-bf91-e8a0a5fbfea5" />
 </p>
 
@@ -89,8 +88,7 @@ https://github.com/tanug0/HireLens-AI
 ## 🏠 Landing Page
 
 <p align="center">
-  <img src="assets/landing-page.png" alt="Landing Page" width="100%">
-  <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" /
+   <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" /
 </p>
 
 
@@ -100,7 +98,7 @@ https://github.com/tanug0/HireLens-AI
 ## 📊 Dashboard Overview
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Dashboard" width="100%">
+  <img width="1765" height="2048" alt="dashboard" src="https://github.com/user-attachments/assets/e33ed8dc-fd53-40ad-81de-26c790ea2b84" />
 </p>
 
 ---
