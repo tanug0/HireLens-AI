@@ -1,3 +1,4 @@
+<img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/e2e140cd-c78a-46e7-bf91-e8a0a5fbfea5" />
 <div align="center">
 
 # 🚀 HireLens AI
@@ -89,7 +90,10 @@ https://github.com/tanug0/HireLens-AI
 
 <p align="center">
   <img src="assets/landing-page.png" alt="Landing Page" width="100%">
+  <img width="1894" height="905" alt="landing-page" src="https://github.com/user-attachments/assets/3b25d458-d61d-4c40-9917-a32dc3115e8c" /
 </p>
+
+
 
 ---
 
